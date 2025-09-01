@@ -1,0 +1,48 @@
+﻿Created By AccessData® FTK® Imager 4.3.1.1 
+
+Case Information: 
+Acquired using: ADI4.3.1.1
+Case Number: JJL06172020
+Evidence Number: FP-2020
+Unique description: 5MQ1AZN1
+Examiner: Student
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\JOHNL\Desktop\Final Project\FinalProject:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 4,863
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 78,125,000
+[Physical Drive Information]
+ Drive Model: WT071 ST 340014AS SCSI Disk Device
+ Drive Serial Number: 070000000431
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 38146 MB
+ Sector count:    78125000
+[Computed Hashes]
+ MD5 checksum:    5e024fd596e916ad6bf8905c57456ca7
+ SHA1 checksum:   4436c4694e21e075d685c0d7d0ce52717ba2851f
+
+Image Information:
+ Acquisition started:   Wed Jun 17 19:39:40 2020
+ Acquisition finished:  Wed Jun 17 19:54:02 2020
+ Segment list:
+  C:\Users\JOHNL\Desktop\Final Project\FinalProject.E01
+  C:\Users\JOHNL\Desktop\Final Project\FinalProject.E02
+  C:\Users\JOHNL\Desktop\Final Project\FinalProject.E03
+  C:\Users\JOHNL\Desktop\Final Project\FinalProject.E04
+
+Image Verification Results:
+ Verification started:  Wed Jun 17 19:54:02 2020
+ Verification finished: Wed Jun 17 19:59:11 2020
+ MD5 checksum:    5e024fd596e916ad6bf8905c57456ca7 : verified
+ SHA1 checksum:   4436c4694e21e075d685c0d7d0ce52717ba2851f : verified

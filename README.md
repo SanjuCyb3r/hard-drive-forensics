@@ -90,7 +90,7 @@ For the full narrative, see `docs/methodology.md` and `docs/artifact-findings.md
 ---
 
 ## 📄 Full Report
-👉 [`hard-drive-forensics-exam/report/Sanjay_Samala_Forensic_Final_Report.pdf`](report/Sanjay_Samala_Forensic_Final_Report.pdf)
+👉 [`report/Sanjay_Samala_Forensic_Final_Report.pdf`](hard-drive-forensics-exam/report/Sanjay_Samala_Forensic_Final_Report.pdf)
 
 ---
 

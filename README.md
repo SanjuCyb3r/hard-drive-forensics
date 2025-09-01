@@ -63,7 +63,7 @@ hard-drive-forensics-exam/
 
 <p align="center">
   <img src="evidence/exhibits/ultradock_front.jpg" alt="WiebeTech UltraDock front" width="45%"/>
-  <img src="evidence/exhibits/hdd_label.jpg" alt="Seagate HDD label" width="45%"/>
+  <img src="hard-drive-forensics-exam/evidence/exhibits/hdd_label.jpg" alt="Seagate HDD label" width="45%"/>
 </p>
 
 > More photos in `evidence/exhibits/`.
